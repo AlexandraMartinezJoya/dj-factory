@@ -1,9 +1,4 @@
-<head>
+<?php
 
-
-</head>
-
-<body>
-
-  <h1>Test</h1>
-</body>
+include_once('myHtml.html');
+?>
